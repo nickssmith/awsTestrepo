@@ -6,11 +6,11 @@ def a():
     return 'I am route a'
 
 @app.route('/a/a')
-def a():
+def aa():
     return 'I am route aa'
-    
+
 @app.route('/a/b')
-def a():
+def ab():
     return 'I am route ab'
 
 
